@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=impact&weight=800&size=30&duration=4000&pause=1000&color=FF053B&background=FFFFFF&center=true&vCenter=true&width=435&lines=Rohan+Gadakh;Coder-Programmer;Logic+Developer-Error+Solver+;Content+Creator-Graphic+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Century+gothic&size=34&pause=1000&color=AB0CFF&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Rohan+Gadakh)](https://git.io/typing-svg)
